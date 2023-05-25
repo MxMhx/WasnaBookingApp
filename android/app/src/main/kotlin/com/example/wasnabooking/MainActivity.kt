@@ -1,0 +1,6 @@
+package com.example.wasnabooking
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
